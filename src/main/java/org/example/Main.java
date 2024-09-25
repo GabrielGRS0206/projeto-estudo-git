@@ -6,6 +6,6 @@ public class Main {
     }
 
     public String commitMaster(){
-        return "commit na master";
+        return "commit na master -alteracao na branch master";
     }
 }
