@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public String testString(){
-        return "";
+    public String commitMaster(){
+        return "commit na master";
     }
 }
